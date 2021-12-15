@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grokking-algorithms", "grokking-algorithms\grokking-algorithms.vcxproj", "{C58F75E9-CC7C-4030-A119-CF46357F1B4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch.0", "Ch.0", "{0AAA6009-067D-4D47-8EB3-E9CC5AE1F2B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch.1", "Ch.1", "{6582CB59-D454-41B1-91DD-17BC6FFBB94F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{47F6F1FD-6FE3-4AD1-B461-A8A01F5DAB59}"
+	ProjectSection(SolutionItems) = preProject
+		grokking-algorithms\binary_search.cpp = grokking-algorithms\binary_search.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{A9986795-3801-42F6-A4B1-8315B49CE444}"
+	ProjectSection(SolutionItems) = preProject
+		grokking-algorithms\selection_sort.cpp = grokking-algorithms\selection_sort.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Debug|x64.ActiveCfg = Debug|x64
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Debug|x64.Build.0 = Debug|x64
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Debug|x86.Build.0 = Debug|Win32
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Release|x64.ActiveCfg = Release|x64
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Release|x64.Build.0 = Release|x64
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Release|x86.ActiveCfg = Release|Win32
+		{C58F75E9-CC7C-4030-A119-CF46357F1B4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47F6F1FD-6FE3-4AD1-B461-A8A01F5DAB59} = {0AAA6009-067D-4D47-8EB3-E9CC5AE1F2B5}
+		{A9986795-3801-42F6-A4B1-8315B49CE444} = {6582CB59-D454-41B1-91DD-17BC6FFBB94F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93D01778-D42B-4F87-81AE-7FF35E9F2622}
+	EndGlobalSection
+EndGlobal
