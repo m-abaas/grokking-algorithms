@@ -33,10 +33,5 @@ int fact_main()
 		verify_output(test_arr[i], fact(test_arr[i]));
 	}
 
-	//cout << "Factorial of '10': " << fact(10) << endl;
-	//cout << "Factorial of '0': " << fact(0) << endl;
-	//cout << "Factorial of '5': " << fact(5) << endl;
-	// cout << "Factorial of '-1000': " << fact(-1000) << endl;
-
 	return 0;
 }
