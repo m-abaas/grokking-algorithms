@@ -24,12 +24,18 @@
     <ClCompile Include="grokking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="factorial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="binary_search.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="selection_sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="factorial.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

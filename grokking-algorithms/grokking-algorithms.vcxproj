@@ -141,10 +141,12 @@
   <ItemGroup>
     <ClCompile Include="binary_search.cpp" />
     <ClCompile Include="grokking.cpp" />
+    <ClCompile Include="factorial.cpp" />
     <ClCompile Include="selection_sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="binary_search.h" />
+    <ClInclude Include="factorial.h" />
     <ClInclude Include="selection_sort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
