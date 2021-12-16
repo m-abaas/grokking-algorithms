@@ -31,6 +31,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{BECB5992-C072-4360-BF38-49FC8D40FE02}"
 	ProjectSection(SolutionItems) = preProject
 		grokking-algorithms\recursive_count.cpp = grokking-algorithms\recursive_count.cpp
+		grokking-algorithms\recursive_max.cpp = grokking-algorithms\recursive_max.cpp
 		grokking-algorithms\recursive_sum.cpp = grokking-algorithms\recursive_sum.cpp
 	EndProjectSection
 EndProject
