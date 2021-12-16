@@ -22,6 +22,16 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch.03", "Ch.03", "{973CD292-8D0A-44FF-AB5C-94F5E355A40C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{740801D7-E090-4678-84B0-ED24392DED82}"
+	ProjectSection(SolutionItems) = preProject
+		grokking-algorithms\factorial.cpp = grokking-algorithms\factorial.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch.04", "Ch.04", "{CC97D60A-2D82-4A92-AB42-C491E3C05CE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{BECB5992-C072-4360-BF38-49FC8D40FE02}"
+	ProjectSection(SolutionItems) = preProject
+		grokking-algorithms\recursive_sum.cpp = grokking-algorithms\recursive_sum.cpp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +57,7 @@ Global
 		{47F6F1FD-6FE3-4AD1-B461-A8A01F5DAB59} = {0AAA6009-067D-4D47-8EB3-E9CC5AE1F2B5}
 		{A9986795-3801-42F6-A4B1-8315B49CE444} = {6582CB59-D454-41B1-91DD-17BC6FFBB94F}
 		{740801D7-E090-4678-84B0-ED24392DED82} = {973CD292-8D0A-44FF-AB5C-94F5E355A40C}
+		{BECB5992-C072-4360-BF38-49FC8D40FE02} = {CC97D60A-2D82-4A92-AB42-C491E3C05CE2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93D01778-D42B-4F87-81AE-7FF35E9F2622}
