@@ -143,6 +143,7 @@
     <ClCompile Include="grokking.cpp" />
     <ClCompile Include="factorial.cpp" />
     <ClCompile Include="recursive_count.cpp" />
+    <ClCompile Include="recursive_max.cpp" />
     <ClCompile Include="recursive_sum.cpp" />
     <ClCompile Include="selection_sort.cpp" />
   </ItemGroup>
@@ -150,6 +151,7 @@
     <ClInclude Include="binary_search.h" />
     <ClInclude Include="factorial.h" />
     <ClInclude Include="recursive_count.h" />
+    <ClInclude Include="recursive_max.h" />
     <ClInclude Include="recursive_sum.h" />
     <ClInclude Include="selection_sort.h" />
   </ItemGroup>
