@@ -35,6 +35,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{
 		grokking-algorithms\recursive_sum.cpp = grokking-algorithms\recursive_sum.cpp
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{BDED0826-AE36-4913-BB20-B0EE1213BA94}"
+	ProjectSection(SolutionItems) = preProject
+		grokking-algorithms\quick_sort.cpp = grokking-algorithms\quick_sort.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -60,6 +65,7 @@ Global
 		{A9986795-3801-42F6-A4B1-8315B49CE444} = {6582CB59-D454-41B1-91DD-17BC6FFBB94F}
 		{740801D7-E090-4678-84B0-ED24392DED82} = {973CD292-8D0A-44FF-AB5C-94F5E355A40C}
 		{BECB5992-C072-4360-BF38-49FC8D40FE02} = {CC97D60A-2D82-4A92-AB42-C491E3C05CE2}
+		{BDED0826-AE36-4913-BB20-B0EE1213BA94} = {CC97D60A-2D82-4A92-AB42-C491E3C05CE2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93D01778-D42B-4F87-81AE-7FF35E9F2622}

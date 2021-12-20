@@ -36,6 +36,9 @@
     <ClCompile Include="recursive_max.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="quick_sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="binary_search.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="recursive_max.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="quick_sort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

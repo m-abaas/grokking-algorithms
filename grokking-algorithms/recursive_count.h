@@ -3,5 +3,5 @@
 
 int recur_count_main();
 
-#endif // !RECURSIVE_COUNT_H
+#endif 
 
